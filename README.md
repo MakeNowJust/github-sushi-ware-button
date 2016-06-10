@@ -10,6 +10,9 @@ This is a Chrome/Firefox extension to add [SUSHI-WARE 🍣] button into GitHub p
 
 Currently, this is not uploaded to Chrome Web Store/Mozilla Add-ons Store. Sorry, please install by yourself.
 
+Chrome user see: <https://developer.chrome.com/extensions/getstarted#unpacked>
+Firefox user see: <https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension#Packaging_and_publishing>
+
 ## Copyright
 
 This software is licensed by "THE SUSHI-WARE LICENSE" and MIT License.
